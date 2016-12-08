@@ -1,0 +1,157 @@
+﻿/* CSS Document for Landon Hotel Project*/
+
+.body-generic{
+	width:auto;
+	height:auto;
+	background-color: #595959;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana," sans-serif";
+}
+
+.body-background{
+	width:auto;
+	height:auto;
+	background:url(../images/table-setting_485913447.jpeg);
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana," sans-serif";
+}
+.container{
+	width:960px;
+	-webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,.75);
+	-moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,.75);
+	box-shadow: 5px 5px 5px 0px rgba(0,0,0,.75);
+	background-color: #ffffff;
+	margin:30px auto 10px auto;
+		
+}
+
+.nav_top{
+	clear:both;
+	height:30px;
+	padding-left: 0px;
+	width:960px;
+}
+
+.nav-top a:{
+	margin:100px;
+	border:3px #EF090D;
+	
+}
+.nav-top a:link{
+	
+	padding:10px 27px 10px 27px;
+	text-decoration:none;
+	color:#602e8b;
+}
+
+.nav-top a:hover{
+	padding:10px 27px 10px 37px;
+	text-decoration:underline;
+	color:#959bd1;
+}
+
+.heading1{
+	color:darkviolet;
+	text-align:left;
+	padding:0 10px 0 30px;
+	font-weight: 700;
+	font-size: 2em;
+}
+
+.heading2-center{
+	color:#7956A9;
+	text-align:center;
+}
+
+.heading2{
+	color:darkviolet;
+	padding:0 0 0 30px;
+	
+}
+	
+.heading3{
+	padding:0px 0 0 40px;
+	color:black;
+}
+
+.heading4{
+	padding:0px 0 0 30px;
+	color:black;
+	clear:both;
+}
+.section1{
+	background-color:white;
+	margin: 0 ;
+}
+
+.section2{
+	clear:both;
+	background-color:white;
+	margin: 0 ;
+
+}
+
+.text{
+	width:600px;
+	float:left;
+}
+.text p{ 
+	padding:0px 30px 0px 30px;
+
+}
+
+.body-photo{
+	width:300px;
+	float:left;
+	padding: 0 0 10px 0;
+}
+.body-photo-center{
+	width:300px;
+	float:left;
+	padding: 20px 0 0 10px;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+	
+}
+.rule{
+	clear:both;
+	width:95%;
+	align:center;
+	padding:0px 0 0 30px;
+}
+
+
+.widetext{
+	width:920px;
+	float:left;
+	padding:0px 10px 0px 30px;
+}
+
+footer{
+	height:40px;
+	width:950px;
+	background-color:rgba(58,19,81,1.00);
+	color:white;
+	padding:5px 0 0 10px;
+	clear:both;
+	font-size:.8em;
+}
+
+ul { 
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 80px;
+	color:rgba(58,19,81,0.70);
+	line-height: 1.5em;
+}
+.li-black{color:black;}
+
+form {
+	margin:10px 0 40px 30px;
+}
+form input{
+	margin:10px 0px 5px 0;
+}
+
